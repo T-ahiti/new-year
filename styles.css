@@ -60,6 +60,43 @@ h1 {
     font-weight: 600;
     line-height: normal;
 }
-#main-section{
+
+#main-section {
     display: flex;
+    gap: 100px;
+    margin-top: 131px;
+}
+
+#list {
+    margin-right: 320px;
+    margin-left: 87px;
+    margin-top: 230px;
+}
+
+#person {
+    width: 451px;
+    height: 898px;
+    flex-shrink: 0;
+    margin-left: 277px;
+}
+
+#list-intro {
+    width: 416px;
+    margin-bottom: 0px;
+    margin-top: 24px;
+}
+
+#list-items {
+    margin-top: 16px;
+}
+
+.base-heading {
+    color:  #151414;
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 700;
+}
+#list-heading{
+    width: 288px;
+    margin-bottom: 0px;
 }
