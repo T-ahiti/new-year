@@ -10,8 +10,7 @@ h1 {
     font-size: 65px;
     font-weight: 700;
     width: 525px;
-    /* padding: 216px 230px 364px 845px;  */
-
+    margin-bottom: 0px;
 }
 
 .header {
@@ -32,7 +31,32 @@ h1 {
 #sub-heading {
     text-align: right;
     width: 494px;
+    margin-top: 24px;
+    margin-bottom: 0px;
 }
-.head-text-div{
+
+.head-text-div {
     padding: 216px 230px 364px 845px;
+    margin-right: 230px;
+}
+
+.button {
+    border-radius: 5px;
+    background: #F15B22;
+    width: 160px;
+    height: 64px;
+    flex-shrink: 0;
+    border: none;
+    margin-top: 32px;
+    margin-left: 334px;
+}
+
+.text-button {
+    color: #FFF;
+    text-align: right;
+    font-family: "Work Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
 }
