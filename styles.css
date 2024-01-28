@@ -140,3 +140,28 @@ h1 {
     line-height: normal;
     margin-top: 0px;
 }
+
+#watch {
+    width: 1140px;
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%);
+    background-image: url('images/gradient3.png'), url('images/watch.png');
+}
+
+.white-heading {
+    color: #FFF;
+    font-family: "Work Sans";
+    font-size: 40px;
+    font-weight: 700;
+    width: 459px;
+}
+
+.white-button {
+    width: 160px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #FFF;
+}
