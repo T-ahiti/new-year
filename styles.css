@@ -164,4 +164,17 @@ h1 {
     flex-shrink: 0;
     border-radius: 5px;
     background: #FFF;
+    border: none;
+}
+
+.white-button-text {
+    color: #F15B22;
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 20px;
+    font-weight: 600;
+}
+#watch-container{
+    padding-top: 20px;
+    margin-left: 64px;
 }
