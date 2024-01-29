@@ -148,6 +148,8 @@ h1 {
     border-radius: 8px;
     background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%);
     background-image: url('images/gradient3.png'), url('images/watch.png');
+    margin-top: 120px;
+    margin-bottom: 110px;
 }
 
 .white-heading {
@@ -174,7 +176,47 @@ h1 {
     font-size: 20px;
     font-weight: 600;
 }
-#watch-container{
+
+#watch-container {
     padding-top: 20px;
     margin-left: 64px;
+}
+
+#footer {
+    background: #151414;
+    width: 1600px;
+    height: 577px;
+    flex-shrink: 0;
+}
+
+#future {
+    padding-top: 100px;
+    margin-left: 230px;
+}
+
+#future-heading {
+    color: #F8F8F8;
+    font-family: "Work Sans";
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 148px;
+    height: 53px;
+    top: 2782.26px;
+    left: 230px;
+    margin-bottom: 0px;
+}
+
+.white-text {
+    color: #FFF;
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+#future-white-text{
+    width: 485px;
+    margin-top: 16px;
 }
