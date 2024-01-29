@@ -216,15 +216,26 @@ h1 {
     font-weight: 400;
     line-height: 26px;
 }
-#future-white-text{
+
+#future-white-text {
     width: 485px;
     margin-top: 16px;
 }
-#future-email{
+
+#future-email {
     margin-top: 16px;
     margin-bottom: 0px;
 }
-#future-phone{
+
+#future-phone {
     margin-top: 16px;
     margin-bottom: 32px;
+}
+
+#future-icons {
+    display: flex;
+    width: 175px;
+    height: 46px;
+    flex-shrink: 0;
+    justify-content: space-around;
 }
