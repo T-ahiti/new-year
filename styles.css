@@ -267,3 +267,18 @@ h1 {
     border: 1px solid #FFF;
     background: #151414;
 }
+
+input[type="text"] {
+    color: #fff;
+    /* Set the submit button text color to white */
+}
+
+input::placeholder {
+    color:  #F3F3F3;
+    font-family: "Work Sans";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 20px;
+}
