@@ -220,3 +220,11 @@ h1 {
     width: 485px;
     margin-top: 16px;
 }
+#future-email{
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+#future-phone{
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
