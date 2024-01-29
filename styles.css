@@ -189,6 +189,11 @@ h1 {
     flex-shrink: 0;
 }
 
+#footer-div {
+    display: flex;
+    gap: 330px;
+}
+
 #future {
     padding-top: 100px;
     margin-left: 230px;
@@ -238,4 +243,27 @@ h1 {
     height: 46px;
     flex-shrink: 0;
     justify-content: space-around;
+}
+
+.subscribe-div {
+    padding-top: 130px;
+    margin-right: 430px;
+}
+
+#subscribe {
+    color: #FFF;
+    font-family: "Work Sans";
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.form {
+    width: 325px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    background: #151414;
 }
